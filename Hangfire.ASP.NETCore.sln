@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.ASP.NETCore", "Hangfire.ASP.NETCore\Hangfire.ASP.NETCore.csproj", "{0780B7BF-C177-4695-9AF9-BF636142F1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0780B7BF-C177-4695-9AF9-BF636142F1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0780B7BF-C177-4695-9AF9-BF636142F1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0780B7BF-C177-4695-9AF9-BF636142F1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0780B7BF-C177-4695-9AF9-BF636142F1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81357AC6-5448-4FD8-9878-BA0F17948C6B}
+	EndGlobalSection
+EndGlobal
