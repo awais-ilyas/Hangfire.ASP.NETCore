@@ -1,2 +1,2 @@
 # Introduction
-FluentValidation provides built in support for ASP.NET Core, MVC5 and WebApi 2.
+An easy way to perform background processing in your .NET Core applications.
